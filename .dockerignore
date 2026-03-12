@@ -1,0 +1,17 @@
+venv
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+data
+notebooks
+mlruns
+*.csv
+*.parquet
+
+logs
+tests
+.ipynb_checkpoints

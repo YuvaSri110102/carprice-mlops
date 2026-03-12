@@ -5,3 +5,4 @@ models/
 data/raw/*
 !data/raw/*.dvc
 .mlflow/
+.ipynb_checkpoints/
